@@ -11,7 +11,7 @@ namespace Prueba_App.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            return Content("Esto es una prueba 3.");
+            return Content("Esto es una prueba 4.");
         }
     }
 }
